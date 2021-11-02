@@ -13,6 +13,10 @@ Link: https://pdos.csail.mit.edu/papers/ton:chord/paper-ton.pdf
 
 The input provided (as command line) will be of the form: numberOfNodes numberOfRequests Where numberOfNodes is the number of peers to be created in the peer-to-peer system and numberOfRequests is the number of requests each peer has to make. When all peers performed that many requests, the program can exit. Each peer should send a request/second.
 
+### Actor modeling
+
+In this project, you have to use exclusively the AKKA actor framework (projects that do not use multiple actors or use any other form of parallelism will receive no credit).  You should have one actor for each of the peers modeled.
+
 ### Output
 
 Print the average number of hops (node connections) that have to be traversed to deliver a message.
