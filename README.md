@@ -38,7 +38,7 @@ Name: Parth Gupta, UFID: 91997064
 ## What is Working?
 
 - Implemented the network join and routing as described in the Chord paper and encoded the application that associates a key with a string.
-- After implementation of Chord Alforithm I am printing the avergae hop count that hasto be traversed to deliver a message.
+- After implementation of Chord Algorithm I am printing the avergae hop count that has to be traversed to deliver a message.
 
 ## Some Results of my Algorithm:
 
