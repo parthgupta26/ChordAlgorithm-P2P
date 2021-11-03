@@ -23,8 +23,13 @@ Print the average number of hops (node connections) that have to be traversed to
 
 ### Example:
 
-dotnet fsi Project3.fsx 2500 100 <br>
+
+```F#
+dotnet fsi Project3.fsx 2500 100
+```
+```F#
 Average number of hops (node connections) that have to be traversed to deliver a message : 5.295244
+```
 
 ## Submitted By:
 
