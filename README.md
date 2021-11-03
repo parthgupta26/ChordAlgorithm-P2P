@@ -37,15 +37,10 @@ Name: Parth Gupta, UFID: 91997064
 
 ## What is Working?
 
-- 
+- Implemented the network join and routing as described in the Chord paper and encoded the application that associates a key with a string.
+- After implementation of Chord Alforithm I am printing the avergae hop count that hasto be traversed to deliver a message.
 
 ## Some Results of my Algorithm:
-
-```F#
-PS E:\University of Florida\SEM-4\DOS\project3> dotnet fsi Project3.fsx 5500 200
-Average number of hops (node connections) that have to be traversed to deliver a message : 5.920152
-PS E:\University of Florida\SEM-4\DOS\project3> 
-```
 
 | Number of Nodes | Number of Requests | Avg Number of Hops |
 | --------------- | ------------------ | ------------------ |
@@ -66,6 +61,12 @@ PS E:\University of Florida\SEM-4\DOS\project3>
 ## The largest network that I managed to deal with:
 
 For this project, the largest network that I was able to manage was for numbers of nodes = 5500 and numbers of requests = 200.
+
+```F#
+PS E:\University of Florida\SEM-4\DOS\project3> dotnet fsi Project3.fsx 5500 200
+Average number of hops (node connections) that have to be traversed to deliver a message : 5.920152
+PS E:\University of Florida\SEM-4\DOS\project3> 
+```
 
 ## Built On
 
