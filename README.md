@@ -54,10 +54,11 @@ Name: Parth Gupta, UFID: 91997064
 | 2500 | 150 | 5.369304 |
 | 3000 | 150 | 5.437124 |
 | 4500 | 200 | 5.760827 |
+| 5000 | 200 | 5.795034 |
 
 ## The largest network that I managed to deal with:
 
-For this project, the largest network that I was able to manage was for numbers of nodes = 4500 and numbers of requests = 200.
+For this project, the largest network that I was able to manage was for numbers of nodes = 5000 and numbers of requests = 200.
 
 ## Built On
 
