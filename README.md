@@ -37,6 +37,7 @@ Name: Parth Gupta, UFID: 91997064
 
 ## What is Working?
 
+![alt text](http://url/to/img.png)
 - 
 
 ## Some Results of my Algorithm:
