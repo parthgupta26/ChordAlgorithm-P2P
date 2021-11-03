@@ -34,14 +34,22 @@ Name: Parth Gupta, UFID: 91997064
 
 - 
 
-## The largest network that I managed to deal with:
+## Some Results of my Algorithm:
 
 | Number of Nodes | Number of Requests | Avg Number of Hops |
 | --- | --- | --- |
-|  |  |  |
-|  |  |  |
-|  |  |  | 
-|  |  |  |
+| 100 | 10 | 2.936000 |
+| 500 | 10 | 4.062600 | 
+| 1000 | 10 | 4.565500 |
+| 500 | 50 | 4.064400 |
+| 1000 | 50 | 4.565960 |
+| 1000 | 100 | 4.590240 |
+| 1500 | 100 | 4.948467 |
+| 2500 | 100 | 5.342932 |
+| 2500 | 150 | 5.369304 |
+| 3000 | 150 |  |
+
+## The largest network that I managed to deal with:
 
 ## Built On
 
