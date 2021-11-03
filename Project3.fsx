@@ -122,8 +122,8 @@ let Peers (mailbox: Actor<_>) =
     loop()
 
 let actorList = [
-    let mutable i = 0;
-    while i < numberOfNodes do
+    let mutable i = 1;
+    while i <= numberOfNodes do
         let actorName = "Actor" + i.ToString()
         yield (spawn system actorName Peers)
         i <- i + 1;
