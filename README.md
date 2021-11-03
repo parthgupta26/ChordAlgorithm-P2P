@@ -41,6 +41,12 @@ Name: Parth Gupta, UFID: 91997064
 
 ## Some Results of my Algorithm:
 
+```F#
+PS E:\University of Florida\SEM-4\DOS\project3> dotnet fsi Project3.fsx 5500 200
+Average number of hops (node connections) that have to be traversed to deliver a message : 5.920152
+PS E:\University of Florida\SEM-4\DOS\project3> 
+```
+
 | Number of Nodes | Number of Requests | Avg Number of Hops |
 | --------------- | ------------------ | ------------------ |
 | 100 | 10 | 2.936000 |
