@@ -56,6 +56,8 @@ Name: Parth Gupta, UFID: 91997064
 
 ## The largest network that I managed to deal with:
 
+For this project, the largest network that I was able to manage was for numbers of nodes = and numbers of requests = .
+
 ## Built On
 
 - Programming language: F# 
