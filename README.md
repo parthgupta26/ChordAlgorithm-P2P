@@ -53,6 +53,7 @@ Name: Parth Gupta, UFID: 91997064
 | 2500 | 100 | 5.295244 |
 | 2500 | 150 | 5.369304 |
 | 3000 | 150 | 5.437124 |
+| 4500 | 200 |  |
 
 ## The largest network that I managed to deal with:
 
