@@ -42,8 +42,8 @@ Name: Parth Gupta, UFID: 91997064
 ## Some Results of my Algorithm:
 
 | Number of Nodes | Number of Requests | Avg Number of Hops |
-| --- | --- | --- |
-| 100 | 10 | 2.936000 |
+| --------------- | ------------------ | ------------------ |
+|       100       |        10          |           2.936000 |
 | 500 | 10 | 4.062600 | 
 | 1000 | 10 | 4.565500 |
 | 500 | 50 | 4.064400 |
